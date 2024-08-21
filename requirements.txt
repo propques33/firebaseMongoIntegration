@@ -1,0 +1,4 @@
+firebase-admin
+pymongo
+apscheduler
+python-dotenv
